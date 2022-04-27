@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/APIDemo
+/APIDemo/bin/Debug/net5.0
+/APIDemo/logs
+/APIDemo/obj
